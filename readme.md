@@ -14,5 +14,5 @@ Tal como se indicó en la respuesta 1, nos permite consolidar a nivel de "versio
 
 4. ¿Qué tipos de control de versiones existen?
 
-Existen sistemas de control de versiones loca
+Existen sistemas de control de versiones CENTRALIZADOS, donde toda nuestro código fuente y sus versiones se encuentran almacenados en un único directorio, en una sola computadora; y existe los DISTRIBUIDOS, donde no existe un repositorio central, donde todos los desarrolladores tienen una propia copia del repositorio y en el tiempo los desarrolladores puedan sincronizar sus repositorios.
 
